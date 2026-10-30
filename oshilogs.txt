@@ -12,49 +12,45 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nelita =====
-[1]Nelita      |11:18:38 | 29-10-2026| login OK @nelitamaharani | score=2360 rank=3359
-[1]Nelita      |11:18:38 | 29-10-2026| serverTime=2026-10-29T11:18:38.000Z local=2026-10-29T11:18:38.438Z
+[1]Nelita      |11:11:36 | 30-10-2026| login OK @nelitamaharani | score=2450 rank=3240
+[1]Nelita      |11:11:36 | 30-10-2026| serverTime=2026-10-30T11:11:35.000Z local=2026-10-30T11:11:36.018Z
 --> [1]Nelita menjalankan: Claim Daily
-[1]Nelita      |11:18:39 | 29-10-2026| daily: OK +10 poin score=2370
---> [1]Nelita menjalankan: Auto All Tasks (8 pending)
-[1]Nelita      |11:18:41 | 29-10-2026| [1/8] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115764709102807293
-[1]Nelita      |11:18:41 | 29-10-2026| delay 10s...
-[1]Nelita      |11:18:54 | 29-10-2026| [2/8] 5c713c28 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115764880271225928
-[1]Nelita      |11:18:54 | 29-10-2026| delay 10s...
-[1]Nelita      |11:19:06 | 29-10-2026| [3/8] a4b0b050 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115764954247963215
-[1]Nelita      |11:19:06 | 29-10-2026| delay 10s...
-[1]Nelita      |11:19:18 | 29-10-2026| [4/8] 6fb148bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115764864202126161
-[1]Nelita      |11:19:18 | 29-10-2026| delay 10s...
-[1]Nelita      |11:19:30 | 29-10-2026| [5/8] 3a2ebc56 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115765166633523207
-[1]Nelita      |11:19:30 | 29-10-2026| delay 10s...
-[1]Nelita      |11:19:42 | 29-10-2026| [6/8] 21a80281 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115764953035462749
-[1]Nelita      |11:19:42 | 29-10-2026| delay 10s...
-[1]Nelita      |11:19:54 | 29-10-2026| [7/8] 623aac60 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321 | proof=https://x.com/nelitamaharani/status/2115765284689126300
-[1]Nelita      |11:19:54 | 29-10-2026| delay 10s...
-[1]Nelita      |11:20:06 | 29-10-2026| [8/8] 125a0329 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211572880657321
-[1]Nelita      |11:20:06 | 29-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nelita      |11:20:08 | 29-10-2026| [1/1] 4b02b48f (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"4b02b48f-7e1e-4e76-a90a-dac658a60cf3","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115728806573219 | proof=https://x.com/nelitamaharani/status/2115765081947834170
+[1]Nelita      |11:11:37 | 30-10-2026| daily: OK +10 poin score=2460
+--> [1]Nelita menjalankan: Auto All Tasks (6 pending)
+[1]Nelita      |11:11:39 | 30-10-2026| [1/6] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nelitamaharani/status/2116125243397788409
+[1]Nelita      |11:11:39 | 30-10-2026| delay 10s...
+[1]Nelita      |11:11:52 | 30-10-2026| [2/6] 2b535748 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nelitamaharani/status/2116125467689337472
+[1]Nelita      |11:11:52 | 30-10-2026| delay 10s...
+[1]Nelita      |11:12:06 | 30-10-2026| [3/6] 41ea1884 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nelitamaharani/status/2116125382056850354
+[1]Nelita      |11:12:06 | 30-10-2026| delay 10s...
+[1]Nelita      |11:12:18 | 30-10-2026| [4/6] ef7e9fb7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nelitamaharani/status/2116125432866459200
+[1]Nelita      |11:12:18 | 30-10-2026| delay 10s...
+[1]Nelita      |11:12:31 | 30-10-2026| [5/6] 0aa0f4ba (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790 | proof=https://x.com/nelitamaharani/status/2116125626257023155
+[1]Nelita      |11:12:31 | 30-10-2026| delay 10s...
+[1]Nelita      |11:12:43 | 30-10-2026| [6/6] 137da6db (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211604007901790
+[1]Nelita      |11:12:43 | 30-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nelita      |11:12:44 | 30-10-2026| [1/1] 68dc803a (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"68dc803a-de32-46c1-a739-5aa7640f613a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2116040079017906 | proof=https://x.com/nelitamaharani/status/2116125713049727521
 --> [1]Nelita menjalankan: Watch Anime
-[1]Nelita      |11:20:08 | 29-10-2026| watch: semua video sudah completed
+[1]Nelita      |11:12:45 | 30-10-2026| watch: semua video sudah completed
 --> [1]Nelita menjalankan: Read Article
-[1]Nelita      |11:20:10 | 29-10-2026| news: 30/30 artikel selesai dibaca
-[1]Nelita      |11:20:10 | 29-10-2026| mint eligibility: {"userId":"1772764408701456384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nelitamaharani","status":"submitted","revision":"9f3a6af0-061e-48c7-bec7-377f21e
-[1]Nelita      |11:20:10 | 29-10-2026| news: semua artikel sudah dibaca
+[1]Nelita      |11:12:47 | 30-10-2026| news: 30/30 artikel selesai dibaca
+[1]Nelita      |11:12:48 | 30-10-2026| mint eligibility: {"userId":"1772764408701456384","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@nelitamaharani","status":"submitted","revision":"9f3a6af0-061e-48c7-bec7-377f21e
+[1]Nelita      |11:12:48 | 30-10-2026| news: semua artikel sudah dibaca
 --> [1]Nelita menjalankan: Quiz Anime
 --> [1]Nelita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nelita      |11:20:13 | 29-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nelita      |11:20:13 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nelita      |11:20:13 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nelita      |11:20:13 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nelita      |11:12:50 | 30-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nelita      |11:12:51 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nelita      |11:12:51 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nelita      |11:12:51 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nelita menjalankan: Claim Missions
-[1]Nelita      |11:20:14 | 29-10-2026| mission music-listens-10: sudah diklaim
-[1]Nelita      |11:20:14 | 29-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nelita      |11:20:14 | 29-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nelita      |11:12:51 | 30-10-2026| mission music-listens-10: sudah diklaim
+[1]Nelita      |11:12:51 | 30-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nelita      |11:12:51 | 30-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nelita menjalankan: Check Eligibility
 
 --- eligibility [1]Nelita ---
-  @nelitamaharani | score=2360 rank=3359
-  tasks    [#######-------------] 4/12
+  @nelitamaharani | score=2450 rank=3240
+  tasks    [########------------] 4/10
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +61,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nelita menjalankan: Read Manga
-[1]Nelita      |11:20:17 | 29-10-2026| manga: 0/13 chapter belum completed
+[1]Nelita      |11:12:55 | 30-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nelita menjalankan: Get Gift
-[1]Nelita      |11:20:18 | 29-10-2026| gift: 0/5 belum diterima
+[1]Nelita      |11:12:56 | 30-10-2026| gift: 1/6 belum diterima
+[1]Nelita      |11:12:57 | 30-10-2026| gift [1/1] I’m minting. Welcoming my Oshii.: OK
 --> [1]Nelita menjalankan: Setup Profile
-[1]Nelita      |11:20:18 | 29-10-2026| profile: bio="https://x.com/nelitamaharani" fav=yuki rewardAt=1791690754
-[1]Nelita      |11:20:18 | 29-10-2026| profile: bonus sudah diklaim, skip
+[1]Nelita      |11:12:59 | 30-10-2026| profile: bio="https://x.com/nelitamaharani" fav=yuki rewardAt=1791690754
+[1]Nelita      |11:12:59 | 30-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nelita menjalankan: Bind Wallet
-[1]Nelita      |11:20:19 | 29-10-2026| wallet: sudah terikat 7CQ18Yuqdr... (solana)
+[1]Nelita      |11:13:00 | 30-10-2026| wallet: sudah terikat 7CQ18Yuqdr... (solana)
 
 == RINGKASAN ==
-- Nelita: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/5 diterima | profile - | wallet bound | mint req=false open=false
+- Nelita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/6 diterima | profile - | wallet bound | mint req=false open=false
